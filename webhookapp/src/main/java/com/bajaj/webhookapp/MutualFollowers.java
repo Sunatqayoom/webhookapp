@@ -12,6 +12,7 @@ public class MutualFollowers {
     //cycles as [min, max] once.
 
     public static void main(String[] args) {
+        //
         String inputJson = "{\n" +
                 "  \"users\": [\n" +
                 "    {\"id\": 1, \"name\": \"Alice\", \"follows\": [2, 3]},\n" +

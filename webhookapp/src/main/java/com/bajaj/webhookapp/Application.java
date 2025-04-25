@@ -110,6 +110,7 @@ public class Application implements CommandLineRunner {
 				System.out.println("Attempt " + attempts + " failed: " + e.getMessage());
 				if (attempts == 4) {
 					System.out.println("All attempts failed.");
+					//
 				}
 			}
 		}
