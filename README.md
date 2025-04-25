@@ -19,7 +19,8 @@ The executable .jar file is available in the "release" folder.
 
 To run the application:
 java -jar release/webhookapp.jar
+
 🖼 Output Screenshot
 :
+![Screenshot 2025-04-25 190100](https://github.com/user-attachments/assets/4be42e51-9b48-40af-8b5f-74232b1dc313)
 
-![Screenshot 2025-04-25 200239](https://github.com/user-attachments/assets/6b08de75-4fc5-458d-9166-f523dfa4c389)
